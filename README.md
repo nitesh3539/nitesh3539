@@ -1,6 +1,6 @@
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Nitesh Kumar Singh, an engineering graduate from [Krishna Institute of Engineering and Technology Ghaziabad](https://www.kiet.edu/).
+I am Nitesh Kumar Singh, an engineering graduate from [Krishna Institute of Engineering and Technology Ghaziabad](https://www.kiet.edu/) and am currently working as a Senior Software Engineer at <a alt="dehaat" href="https://agrevolution.in/"><span><img height="20px" src="https://agrevolution.in/assets/frontend/images/favicon.png"/></span></a>.
 <!--I am a tech enthusiast & an open-source advocate.-->
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
